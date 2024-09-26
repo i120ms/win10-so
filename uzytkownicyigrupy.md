@@ -50,3 +50,5 @@
 - Usuwa użytkownika z danej grupy
 .
 ```net localgroup grupa użytkownik /delete```
+
+.
