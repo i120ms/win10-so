@@ -1,4 +1,5 @@
 # Użytkownicy i Grupy
+.
 
 ## użytkownicy - komendy
 
