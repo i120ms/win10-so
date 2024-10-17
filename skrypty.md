@@ -1,7 +1,9 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 Skrypty // Pliki wsadowe - Windows 10
 </h1>
-
+.
+.-?-.
+.
 ### Tworzenie plików wsadowych - part I
 .
 - tryb tekstowy (CMD) - ```copy con <lokalizacja>```
